@@ -1,1 +1,1 @@
-# generative-ai-for-cellular-agriculture
+# Generative-AI-for-Cellular-Agriculture
